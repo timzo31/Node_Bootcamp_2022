@@ -1,0 +1,20 @@
+{
+  "name": "node-examples",
+  "version": "1.0.0",
+  "description": "Simple Node examples",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timzo31/Node_Bootcamp_2022.git"
+  },
+  "author": "TIMERA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timzo31/Node_Bootcamp_2022/issues"
+  },
+  "homepage": "https://github.com/timzo31/Node_Bootcamp_2022#readme"
+}
